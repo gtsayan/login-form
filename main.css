@@ -83,7 +83,7 @@ a {
     filter: brightness(10);
     position: absolute;
     top: 0;
-    left: -35px;
+    left: -30px;
 }
 
 .login-form {
@@ -110,13 +110,13 @@ a {
 
 .login-form__email {
     background: url(img/email_icon.png) no-repeat;
-    background-position: 235px 50%;
+    background-position: 238px 50%;
 
 }
 
 .login-form__password {
     background: url(img/lock_icon.png) no-repeat;
-    background-position: 235px 50%;
+    background-position: 240px 50%;
 }
 
 .login-form__entrance {
@@ -152,7 +152,6 @@ a {
 
 .login-window__forgot {
     color: #757575;
-    font-family: Roboto;
     font-size: 14px;
     font-weight: 500;
     margin-left: 14px;
